@@ -7,7 +7,7 @@
 
 /* Definindo a fonte padrão */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
     line-height: 1.6;
     padding: 20px;
     background-color: #f4f4f4;
@@ -15,7 +15,7 @@ body {
 
 /* Cabeçalho do currículo */
 header {
-    background-color: #333;
+    background-color: #7a7777;
     color: white;
     padding: 20px;
     text-align: center;
